@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Network.Droid\Network.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus_5_API_23_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Network\Services\LocationService.cs">
+    <Files>
+      <File FileName="Network\App.cs" Line="15" Column="20" />
+      <File FileName="Network\ViewModels\MainViewModel.cs" Line="14" Column="45" />
+      <File FileName="Network.Droid\Setup.cs" Line="21" Column="4" />
+      <File FileName="Network\Services\ILocationService.cs" Line="11" Column="28" />
+      <File FileName="Network\Services\LocationService.cs" Line="33" Column="44" />
+      <File FileName="Network\Messages\LocationUpdated.cs" Line="12" Column="4" />
+      <File FileName="Network.Droid\Views\SecondView.cs" Line="13" Column="29" />
+      <File FileName="Network\ViewModels\SecondViewModel.cs" Line="17" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\SubbaRao\Desktop\Testing Samples\Network\Network\ViewModels\SecondViewModel.cs" line="18" column="1" />
+      <Breakpoint file="C:\Users\SubbaRao\Desktop\Testing Samples\Network\Network\Services\LocationService.cs" line="17" column="1" />
+      <Breakpoint file="C:\Users\SubbaRao\Desktop\Testing Samples\Network\Network\Services\LocationService.cs" line="33" column="1" />
+      <Breakpoint file="C:\Users\SubbaRao\Desktop\Testing Samples\Network\Network\Services\LocationService.cs" line="37" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Network.Droid AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>
